@@ -1,0 +1,11 @@
+{
+   "chrome_url_overrides": {
+      "newtab": "tab.html"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCe6Cunf8n8c4JC16am7xRcOPWxQHPRShK6vglpGze3gpXHSO/mI+9lQjc4MY6dQNPoGV2FX01HYoVVnND8SMCsOaN7+LcxhAlLJ/yFIC2TngwFe15b7PDUVmRTjlTmAOo2lnRJYVzqlYIEgixArN4Xli5Dx6WNsv2Yea8LKObirQIDAQAB",
+   "manifest_version": 2,
+   "name": "Extension Source Locator",
+   "permissions": [ "management", "storage", "clipboardWrite" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.2.5"
+}
